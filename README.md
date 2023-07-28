@@ -4,9 +4,13 @@ ESE 498 Capstone Design Project: Convolutional Neural Network for 2-D MRI Image 
 ABSTRACT HERE
 
 **proposal** Formal Proposal
+
 **finalreport** Final Report
+
 **website** Link to website
+
 **poster** Poster Presentation
+
 _________________________________________________________________________________________________________________________________
 Brain Dataset used to train model comes from Aggarwal et al [1-2].
 
