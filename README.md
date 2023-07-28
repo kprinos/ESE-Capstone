@@ -15,7 +15,7 @@ Brain Dataset used to train model comes from Aggarwal et al [1-2].
 
 **2D Reconstruction in k-space:**
 
-**2dinterp.py** code for processing images, training and testing the model can also be found at https://colab.research.google.com/drive/1jn9l0XWK0cVUv162y6iJMJhbiZJy23t6#scrollTo=HY-MdiMhhdVK
+**2Dkspace.py** code for processing images, training and testing the model can also be found at https://colab.research.google.com/drive/1jn9l0XWK0cVUv162y6iJMJhbiZJy23t6#scrollTo=HY-MdiMhhdVK
 
 **kspace_images.png** Side by side comparison of the groundtruth, zero-filled, and reconstructed images
 
