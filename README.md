@@ -12,6 +12,11 @@ Brain Dataset used to train model comes from Aggarwal et al [1-2].
 
 **2D Reconstruction in Image Domain:**
 
+**2Dimgdomain.py** code for processing images, training and testing the model can also be found at https://colab.research.google.com/drive/1bNoooVbWXfAZ0spEPPeJbew0ZSh4AzUP?usp=sharing
+
+**imgdomain_images.png** Side by side comparison of the groundtruth, zero-filled, and reconstructed images
+
+**pretrained model:** 
 
 **2D Reconstruction in k-space:**
 
