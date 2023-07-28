@@ -7,7 +7,7 @@ Deep learning algorithms, such as convolutional neural networks (CNNs), are powe
 
 **finalreport** Final Report
 
-**website** Link to website
+**website:** Link to website
 
 **poster** Poster Presentation
 
