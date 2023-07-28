@@ -3,7 +3,7 @@ ESE 498 Capstone Design Project: Convolutional Neural Network for 2-D MRI Image 
 
 ABSTRACT HERE
 
-**proposal** Formal Proposal
+**Capstone Proposal.pdf** Formal Proposal
 
 **finalreport** Final Report
 
