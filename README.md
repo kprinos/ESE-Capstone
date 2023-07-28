@@ -23,9 +23,9 @@ ________________________________________________________________________________
 
 **2Dimgdomain.py** code for processing images, training and testing the model can also be found at https://colab.research.google.com/drive/1bNoooVbWXfAZ0spEPPeJbew0ZSh4AzUP?usp=sharing
 
-**imgdomain_images.png** Side by side comparison of the groundtruth, zero-filled, and reconstructed images
+**imgdomain.png** Side by side comparison of the groundtruth, zero-filled, and reconstructed images
 
-**pretrained model:** 
+**pretrained model:** https://drive.google.com/file/d/1SRvze0oMrmj8ibgZkJCD0ktEUfuP5Kwo/view?usp=sharing
 
 _________________________________________________________________________________________________________________________________
 
