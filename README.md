@@ -41,5 +41,5 @@ ________________________________________________________________________________
 
 **3D Reconstruction in k-space:**
 
-**3D_Unet.py** code for proposed 3-D U-net architecture
+**3D-Unet.py** code for proposed 3-D U-net architecture
 
