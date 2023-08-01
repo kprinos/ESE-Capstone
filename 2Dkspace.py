@@ -28,6 +28,11 @@ print(list(f.keys()))
 x = f['trnOrg'][()] # set of ground-truth
 P = f['trnMask'][()] # sampling operator
 F = [np.fft.fft2(img) for img in x] # list of Fourier transforms of set of ground-truth
+'''
+# Normalization of images in k-space
+for i in range(X.shape[0]):
+  X[i] /= np.amax(np.abs(X[i]))
+'''
 X = np.array(F)
 e = np.zeros(x.shape) # noise vector (0 for now)
 y = P*X+e # noisy measurement
