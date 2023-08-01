@@ -36,3 +36,9 @@ ________________________________________________________________________________
 **kspace_images.png** Side by side comparison of the groundtruth, zero-filled, and reconstructed images
 
 **pretrained model:** https://drive.google.com/file/d/1RDadJkXuakQcutRQq0__EX9WqNN975IS/view?usp=sharing
+
+_________________________________________________________________________________________________________________________________
+
+**3D Reconstruction in k-space:**
+
+**3D_Unet.py** code for proposed 3-D U-net architecture
