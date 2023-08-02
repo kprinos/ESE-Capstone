@@ -5,7 +5,7 @@ Deep learning algorithms, such as convolutional neural networks (CNNs), are powe
 
 **Capstone Proposal.pdf** Formal Proposal
 
-**finalreport** Final Report
+**Capstone Final.pdf** Final Report
 
 **website:** Link to website
 
