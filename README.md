@@ -7,9 +7,9 @@ Deep learning algorithms, such as convolutional neural networks (CNNs), are powe
 
 **Capstone Final.pdf** Final Report
 
-**website:** Link to website
+**website:** https://sites.wustl.edu/kspacereconstruction/
 
-**poster** Poster Presentation
+**poster** Capstone Poster.pdf
 
 _________________________________________________________________________________________________________________________________
 Brain Dataset used to train model comes from Aggarwal et al [1-2].
